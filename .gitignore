@@ -1,0 +1,13 @@
+.vscode
+.ipynb_checkpoints
+.DS_Store
+*.egg-info
+*.pyc
+env
+wandb
+.venv
+.python-version
+poetry.lock
+test/
+sweep.yaml
+*.sh

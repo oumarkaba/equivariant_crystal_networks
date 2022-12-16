@@ -1,0 +1,6 @@
+# Ignore images
+*.png
+*.svg
+*.pdf
+# Except this file
+!.gitignore
